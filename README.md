@@ -1,1 +1,1 @@
-https://kianelias.github.io/home/
+kianelias.github.io/home/
